@@ -1,42 +1,23 @@
+<!--
 - 👋 Hi, I’m Aman Jee
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning data structure and algorithm
 - 📫 curious to reach me email@ - kumaraman15856@gmail.com
-
+-->
 ### Hi there 👋
 
-<!--
-**Ashish020202/Ashish020202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+𝗜'𝗺 [Aman](https://github.com/AMAN-JEE)！𝗜'𝗺 a Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut Web Development.
 
 
-𝗜'𝗺 [Ashish](https://github.com/ashish020202)！𝗜'𝗺 a Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
-
- 👯Open to Collaborate and Contribute.
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ashishk020202)](https://twitter.com/ashishk020202)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishgupta020202.com)](mailto:ashishgupta020202@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ashish020202)](https://github.com/ashish020202)
-[![linkedin Badge](https://img.shields.io/badge/-linkedin-232323?style=flat-square&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/ashish020202)](https://linkedin.com/in/ashish020202)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish020202)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumaraman15856.com)](mailto:kumaraman15856@gmail.com)
+[![linkedin Badge](https://img.shields.io/badge/-linkedin-232323?style=flat-square&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/amanjee9546)](https://www.linkedin.com/in/amanjee9546/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AMAN-JEE)
 
 
 
 ## 🧐 About
 
-- 📫 How to reach me: ashishgupta020202@gmail.com
+- 📫 How to reach me: kumaraman15856@gmail.com
 - 🌱 Languages and Tools: 
 
     <div>
@@ -56,4 +37,4 @@ Here are some ideas to get you started:
     </div>
 
 
-⭐️ From [Ashish](https://github.com/ashish020202)
+⭐️ From [Aman](https://github.com/AMAN-JEE)
