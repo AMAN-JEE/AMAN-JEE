@@ -6,7 +6,7 @@
 -->
 ### Hi there 👋
 
-𝗜'𝗺 [Aman](https://github.com/AMAN-JEE)！𝗜'𝗺 a Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut Web Development.
+𝗜'𝗺 [Aman](https://github.com/AMAN-JEE)！𝗜'𝗺 a Developer 👨‍💻 who is very pasionate about Web Development.
 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumaraman15856.com)](mailto:kumaraman15856@gmail.com)
